@@ -1,6 +1,6 @@
 Output: NC Drill Files
 Type  : NC Drill
-From  : PCB Document [BlankBuchlaPanel.PcbDoc]
+From  : Project [Blank Buchla Panel.PrjPcb]
    Generated File[BlankBuchlaPanel.LDP]
    Generated File[BlankBuchlaPanel.DRR]
 
@@ -8,4 +8,4 @@ From  : PCB Document [BlankBuchlaPanel.PcbDoc]
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 5:40:37 PM On 6/12/2017
+Finished Output Generation At 5:56:40 PM On 6/12/2017
